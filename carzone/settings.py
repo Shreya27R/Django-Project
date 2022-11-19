@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-fwv00aw!c=7a#-+mgdjpw!tp%)@_rc)4_-wo+f#px$qar0n3*^
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['thawing-falls-13055.herokuapp.com']
 
 LOGIN_REDIRECT_URL = 'dashboard'
 
@@ -172,7 +172,7 @@ EMAIL_USE_TLS = True
 
 #whitenoise settings
 
-STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
+# STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 
 
 
