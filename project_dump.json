@@ -1,0 +1,989 @@
+[
+{
+    "model": "cars.car",
+    "pk": 7,
+    "fields": {
+        "car_title": "2017 Ferrari 488 GTB",
+        "state": "AK",
+        "city": "Austin",
+        "color": "White",
+        "model": "488 GTB",
+        "year": 2021,
+        "condition": "Used",
+        "price": 50000,
+        "description": "<p>The&nbsp;<strong>Ferrari 488</strong>&nbsp;(Type F142M) is a&nbsp;mid-engine&nbsp;sports car&nbsp;produced by the Italian automobile manufacturer&nbsp;Ferrari. The car replaced the&nbsp;458, being the first mid-engine Ferrari to use a turbocharged V8 since the&nbsp;F40. It was succeeded by the&nbsp;Ferrari F8.</p>",
+        "car_photo": "photos/2022/11/06/1902536891.jpg",
+        "car_photo_1": "photos/2022/11/06/1902536917.jpg",
+        "car_photo_2": "photos/2022/11/06/1902537043.jpg",
+        "car_photo_3": "photos/2022/11/06/1902537077.jpg",
+        "car_photo_4": "photos/2022/11/06/1902537082.jpg",
+        "features": "Cruise Control,Power Steering,Direct Fuel Injection,Bluetooth Handset",
+        "body_style": "SUV",
+        "engine": "3.4 Mid Engine V6",
+        "transmission": "Automatic",
+        "interior": "Grey",
+        "miles": 35000,
+        "doors": "2",
+        "passengers": 2,
+        "vin_no": "85WSP64RST",
+        "milage": 7,
+        "fuel_type": "Petrol",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2022-11-06T14:54:26Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 8,
+    "fields": {
+        "car_title": "2017 Ford Edge",
+        "state": "AZ",
+        "city": "Arenia",
+        "color": "Black",
+        "model": "F-250",
+        "year": 2017,
+        "condition": "Used",
+        "price": 65000,
+        "description": "<p>The&nbsp;<strong>Ford Edge</strong>&nbsp;is a range of&nbsp;crossover SUVs&nbsp;manufactured by the&nbsp;Ford Motor Company. Introduced for the 2007 model year, the Edge is the first&nbsp;mid-size CUV&nbsp;marketed by Ford in North America; the model line is currently in its second generation.</p>",
+        "car_photo": "photos/2022/11/06/1901478607.jpg",
+        "car_photo_1": "photos/2022/11/06/1901478618.jpg",
+        "car_photo_2": "photos/2022/11/06/1901478646.jpg",
+        "car_photo_3": "photos/2022/11/06/1901478672.jpg",
+        "car_photo_4": "photos/2022/11/06/1901478687.jpg",
+        "features": "Cruise Control,Air Conditioning,Reversing Camera,Direct Fuel Injection,Auto Start/Stop",
+        "body_style": "Sport",
+        "engine": "3.4L Mid Engine V7",
+        "transmission": "Automatic",
+        "interior": "Grey",
+        "miles": 45000,
+        "doors": "3",
+        "passengers": 4,
+        "vin_no": "85WSO64RSY",
+        "milage": 12,
+        "fuel_type": "Petrol",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2022-11-06T14:56:44Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 9,
+    "fields": {
+        "car_title": "2017 Ford F-250 Super Duty",
+        "state": "TX",
+        "city": "Newyork",
+        "color": "Black",
+        "model": "F-250",
+        "year": 2021,
+        "condition": "New",
+        "price": 75000,
+        "description": "<p>The&nbsp;<strong>Ford Super Duty</strong>&nbsp;(short for F-Series Super Duty) is a series of heavy-duty pickup trucks produced by the&nbsp;Ford Motor Company&nbsp;since the 1999 model year. Slotted above the consumer-oriented Ford&nbsp;F-150, the Super Duty trucks are an expansion of the Ford F-Series range, from the F-250 to the F-550.&nbsp;</p>",
+        "car_photo": "photos/2022/11/06/1894300905_juiib0J.jpg",
+        "car_photo_1": "photos/2022/11/06/1894300894_kxubGHb.jpg",
+        "car_photo_2": "photos/2022/11/06/1894300920_IyXvdF4.jpg",
+        "car_photo_3": "photos/2022/11/06/1900155012_smHoMMt.jpg",
+        "car_photo_4": "photos/2022/11/06/1900155133_tjZLR5y.jpg",
+        "features": "Cruise Control,Reversing Camera,Direct Fuel Injection,Auto Start/Stop",
+        "body_style": "SUV",
+        "engine": "2.0 L Ingenium",
+        "transmission": "Automatic",
+        "interior": "Grey",
+        "miles": 80000,
+        "doors": "4",
+        "passengers": 4,
+        "vin_no": "85WSP64RS5-G",
+        "milage": 12,
+        "fuel_type": "EV",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2022-11-06T15:00:08Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 10,
+    "fields": {
+        "car_title": "2017 Jaguar F-PACE",
+        "state": "VA",
+        "city": "Dk",
+        "color": "Blue",
+        "model": "Edge",
+        "year": 2021,
+        "condition": "New",
+        "price": 86000,
+        "description": "<p>The&nbsp;<strong>Ford Super Duty</strong>&nbsp;(short for F-Series Super Duty) is a series of heavy-duty pickup trucks produced by the&nbsp;Ford Motor Company&nbsp;since the 1999 model year. Slotted above the consumer-oriented Ford&nbsp;F-150, the Super Duty trucks are an expansion of the Ford F-Series range, from the F-250 to the F-550</p>",
+        "car_photo": "photos/2022/11/06/1902932542_svQiBBZ.jpg",
+        "car_photo_1": "photos/2022/11/06/1902932503_SMKnJxz.jpg",
+        "car_photo_2": "photos/2022/11/06/1902932514_RNuurur.jpg",
+        "car_photo_3": "photos/2022/11/06/1902932528_Ktme7Qf.jpg",
+        "car_photo_4": "photos/2022/11/06/1902932542_FQviVB3.jpg",
+        "features": "Cruise Control,Reversing Camera,Direct Fuel Injection,Auto Start/Stop",
+        "body_style": "Sport",
+        "engine": "2.0 L Ingenium",
+        "transmission": "Automatic",
+        "interior": "Grey",
+        "miles": 90000,
+        "doors": "4",
+        "passengers": 5,
+        "vin_no": "85WSP64RS5-GJ",
+        "milage": 10,
+        "fuel_type": "Battery",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2022-11-06T15:03:41Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 11,
+    "fields": {
+        "car_title": "2018 Toyota 4Runner",
+        "state": "OR",
+        "city": "Sweden",
+        "color": "Grey",
+        "model": "X761",
+        "year": 2022,
+        "condition": "Used",
+        "price": 56000,
+        "description": "<p>he&nbsp;<strong>Toyota 4Runner</strong>&nbsp;is an&nbsp;SUV&nbsp;manufactured by the Japanese automaker&nbsp;Toyota&nbsp;and marketed globally since 1984, across five generations. In Japan, it was marketed as the&nbsp;<strong>Toyota Hilux Surf</strong></p>",
+        "car_photo": "photos/2022/11/06/1893633875_r4D5Rdi.jpg",
+        "car_photo_1": "photos/2022/11/06/1893633879_HShkDLx.jpg",
+        "car_photo_2": "photos/2022/11/06/1893633884_DAPwK87.jpg",
+        "car_photo_3": "photos/2022/11/06/1896836883_vxcNNJA.jpg",
+        "car_photo_4": "photos/2022/11/06/1896836887_GzpifqL.jpg",
+        "features": "Reversing Camera,Direct Fuel Injection,Auto Start/Stop,Wind Deflector",
+        "body_style": "SUV",
+        "engine": "3.4 Mid Engine V6",
+        "transmission": "Automatic",
+        "interior": "Grey",
+        "miles": 65000,
+        "doors": "4",
+        "passengers": 4,
+        "vin_no": "85WSP64RS5-GT",
+        "milage": 13,
+        "fuel_type": "Battery",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2022-11-06T15:08:33Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 12,
+    "fields": {
+        "car_title": "2018 Toyota Corolla",
+        "state": "WY",
+        "city": "Dennis",
+        "color": "White",
+        "model": "X761",
+        "year": 2022,
+        "condition": "Used",
+        "price": 75000,
+        "description": "<p>The&nbsp;<strong>Toyota Corolla&nbsp;</strong>is a series of&nbsp;compact cars&nbsp;(formerly&nbsp;subcompact) manufactured and marketed globally by the&nbsp;Toyota Motor Corporation</p>",
+        "car_photo": "photos/2022/11/06/1900893299_axVoPSa.jpg",
+        "car_photo_1": "photos/2022/11/06/1900893311_obj3zTo.jpg",
+        "car_photo_2": "photos/2022/11/06/1900893319_xSYE8nj.jpg",
+        "car_photo_3": "photos/2022/11/06/1900893329_Jc46cHo.jpg",
+        "car_photo_4": "photos/2022/11/06/1900893391_1q0qnOQ.jpg",
+        "features": "Cruise Control,Power Steering,Reversing Camera,Direct Fuel Injection",
+        "body_style": "SUV",
+        "engine": "2.0 L Ingenium",
+        "transmission": "Automatic",
+        "interior": "Grey",
+        "miles": 45000,
+        "doors": "4",
+        "passengers": 5,
+        "vin_no": "85WSP64RS5-GT",
+        "milage": 11,
+        "fuel_type": "Petrol",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2022-11-06T15:11:53Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 2,
+    "fields": {
+        "first_name": "Martin",
+        "last_name": "Smith",
+        "designation": "Web developer",
+        "photo": "photos/2022/11/04/avatar-2.jpg",
+        "facebook_link": "https://facebook.com/",
+        "tiwtter_link": "https://twitter.com/",
+        "google_plus_link": "https://google.com",
+        "created_date": "2022-11-04T12:08:32.395Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 3,
+    "fields": {
+        "first_name": "Stone",
+        "last_name": "Carolyn",
+        "designation": "Creative Developer",
+        "photo": "photos/2022/11/04/avatar-12.jpg",
+        "facebook_link": "https://facebook.com/",
+        "tiwtter_link": "https://twitter.com/",
+        "google_plus_link": "https://google.com",
+        "created_date": "2022-11-04T12:09:07.780Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 4,
+    "fields": {
+        "first_name": "Brandon",
+        "last_name": "Millar",
+        "designation": "Manager",
+        "photo": "photos/2022/11/04/avatar-3.jpg",
+        "facebook_link": "https://facebook.com/",
+        "tiwtter_link": "https://twitter.com/",
+        "google_plus_link": "https://google.com",
+        "created_date": "2022-11-04T12:09:38.423Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 5,
+    "fields": {
+        "first_name": "Michele",
+        "last_name": "Nellson",
+        "designation": "Support Manager",
+        "photo": "photos/2022/11/04/avatar-10.jpg",
+        "facebook_link": "https://facebook.com/",
+        "tiwtter_link": "https://twitter.com/",
+        "google_plus_link": "https://google.com",
+        "created_date": "2022-11-04T12:10:12.893Z"
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$390000$PTLmhtsaFo3JoO7DfykB9a$UO4RR4CUUBU3c21zHNVQZnoCsIGcfe9/SxuJWfa+kmo=",
+        "last_login": "2022-11-17T13:37:54.043Z",
+        "is_superuser": true,
+        "username": "shreya",
+        "first_name": "",
+        "last_name": "",
+        "email": "shreyaborker11@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2022-11-03T15:48:25.524Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$390000$ymcZNxTTmWRvtAghUp2vyy$i50tVGbxKo9kQCZeMiwiawJpcEwvnvGvadefvEGD/bM=",
+        "last_login": "2022-11-16T16:23:02.145Z",
+        "is_superuser": false,
+        "username": "Radhika",
+        "first_name": "Radhika",
+        "last_name": "Krupa",
+        "email": "Radhikakrupa@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-11-16T16:23:01.846Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "om5yebybh2qgb52skqudmn2mqbae8wg3",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQRe_C2hA6QCku3XsGAjODVA0kpV0Z765NutDtf-_9lwhxW0vYOi9hJnEWgzj9binig-sO6B7rrUlsdV3mJHdFHrTLayN-Xg7376DEXr61zdk7S1YPZNmNyJEV24xoCNArh2pUk86TSTom0siMDoEJyIMDA-L9AQeYOMY:1ovf5W:aSWvMHtFshOs8qpQUuaRgqv3dHiVOJtft5zCzScusq4",
+        "expire_date": "2022-12-01T13:37:54.046Z"
+    }
+},
+{
+    "model": "sites.site",
+    "fields": {
+        "domain": "localhost:8000",
+        "name": "localhost:8000"
+    }
+},
+{
+    "model": "socialaccount.socialapp",
+    "pk": 1,
+    "fields": {
+        "provider": "facebook",
+        "name": "Facebook login",
+        "client_id": "1285118685616826",
+        "secret": "e001ef5cf0816860016a2c5b291ddb07",
+        "key": "",
+        "sites": []
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2022-11-03T16:25:25.711Z",
+        "user": [
+            "shreya"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "Team object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2022-11-03T17:02:55.151Z",
+        "user": [
+            "shreya"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "Shreya",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2022-11-04T12:08:32.403Z",
+        "user": [
+            "shreya"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "2",
+        "object_repr": "Martin",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2022-11-04T12:09:07.783Z",
+        "user": [
+            "shreya"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "3",
+        "object_repr": "Stone",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2022-11-04T12:09:38.426Z",
+        "user": [
+            "shreya"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "4",
+        "object_repr": "Brandon",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2022-11-04T12:10:12.896Z",
+        "user": [
+            "shreya"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "5",
+        "object_repr": "Michele",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2022-11-04T12:10:21.647Z",
+        "user": [
+            "shreya"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "Shreya",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2022-11-04T13:14:18.068Z",
+        "user": [
+            "shreya"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "5",
+        "object_repr": "Michele",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2022-11-04T13:14:33.625Z",
+        "user": [
+            "shreya"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "5",
+        "object_repr": "Michele",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2022-11-04T13:19:02.976Z",
+        "user": [
+            "shreya"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "2",
+        "object_repr": "Martin",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2022-11-04T13:19:16.636Z",
+        "user": [
+            "shreya"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "4",
+        "object_repr": "Brandon",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2022-11-04T13:19:27.333Z",
+        "user": [
+            "shreya"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "3",
+        "object_repr": "Stone",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2022-11-05T16:32:30.406Z",
+        "user": [
+            "shreya"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "Car object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2022-11-05T16:39:57.984Z",
+        "user": [
+            "shreya"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "Car object (2)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2022-11-06T09:29:20.279Z",
+        "user": [
+            "shreya"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "3",
+        "object_repr": "2017 Ford F-250 Super Duty",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+        "action_time": "2022-11-06T09:38:00.205Z",
+        "user": [
+            "shreya"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "4",
+        "object_repr": "2017 Jaguar F-PACE",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+        "action_time": "2022-11-06T09:46:39.187Z",
+        "user": [
+            "shreya"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "5",
+        "object_repr": "2018 Toyota 4Runner",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+        "action_time": "2022-11-06T09:54:41.966Z",
+        "user": [
+            "shreya"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "2017 Ford Edge",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+        "action_time": "2022-11-06T10:01:30.923Z",
+        "user": [
+            "shreya"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "2017 Ford Edge",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+        "action_time": "2022-11-06T10:04:40.081Z",
+        "user": [
+            "shreya"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "6",
+        "object_repr": "2018 Toyota Corolla",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+        "action_time": "2022-11-06T14:40:59.197Z",
+        "user": [
+            "shreya"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "2017 Ford Edge",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+        "action_time": "2022-11-06T14:40:59.212Z",
+        "user": [
+            "shreya"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "2017 Ferrari 488 GTB",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+        "action_time": "2022-11-06T14:41:54.925Z",
+        "user": [
+            "shreya"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "6",
+        "object_repr": "2018 Toyota Corolla",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+        "action_time": "2022-11-06T14:41:54.941Z",
+        "user": [
+            "shreya"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "5",
+        "object_repr": "2018 Toyota 4Runner",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+        "action_time": "2022-11-06T14:41:54.942Z",
+        "user": [
+            "shreya"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "4",
+        "object_repr": "2017 Jaguar F-PACE",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 26,
+    "fields": {
+        "action_time": "2022-11-06T14:41:54.943Z",
+        "user": [
+            "shreya"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "3",
+        "object_repr": "2017 Ford F-250 Super Duty",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 27,
+    "fields": {
+        "action_time": "2022-11-06T14:54:28.555Z",
+        "user": [
+            "shreya"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "7",
+        "object_repr": "2017 Ferrari 488 GTB",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 28,
+    "fields": {
+        "action_time": "2022-11-06T14:56:46.386Z",
+        "user": [
+            "shreya"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "8",
+        "object_repr": "2017 Ford Edge",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 29,
+    "fields": {
+        "action_time": "2022-11-06T15:00:14.637Z",
+        "user": [
+            "shreya"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "9",
+        "object_repr": "2017 Ford F-250 Super Duty",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 30,
+    "fields": {
+        "action_time": "2022-11-06T15:03:42.940Z",
+        "user": [
+            "shreya"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "10",
+        "object_repr": "2017 Jaguar F-PACE",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 31,
+    "fields": {
+        "action_time": "2022-11-06T15:08:34.572Z",
+        "user": [
+            "shreya"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "11",
+        "object_repr": "2018 Toyota 4Runner",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 32,
+    "fields": {
+        "action_time": "2022-11-06T15:12:18.628Z",
+        "user": [
+            "shreya"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "12",
+        "object_repr": "2018 Toyota Corolla",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 33,
+    "fields": {
+        "action_time": "2022-11-16T16:19:27.869Z",
+        "user": [
+            "shreya"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "4",
+        "object_repr": "RadhaKrishna",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 34,
+    "fields": {
+        "action_time": "2022-11-16T16:19:27.880Z",
+        "user": [
+            "shreya"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "2",
+        "object_repr": "Rish",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 35,
+    "fields": {
+        "action_time": "2022-11-16T16:19:27.881Z",
+        "user": [
+            "shreya"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "3",
+        "object_repr": "ShreRish",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 36,
+    "fields": {
+        "action_time": "2022-11-17T13:26:29.836Z",
+        "user": [
+            "shreya"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "1",
+        "object_repr": "Facebook login",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 37,
+    "fields": {
+        "action_time": "2022-11-17T13:27:47.370Z",
+        "user": [
+            "shreya"
+        ],
+        "content_type": [
+            "sites",
+            "site"
+        ],
+        "object_id": "1",
+        "object_repr": "localhost:8000",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+    }
+}
+]
