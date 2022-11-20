@@ -14,7 +14,7 @@ class Contact(models.Model):
     phone = models.CharField(max_length=100)
     message = models.TextField(blank=True)
     user_id = models.IntegerField(blank=True)
-    create_date = models.DateTimeField(datetime.now(timezone.utc),blank=True)
+    create_date = models.DateTimeField(default=datetime.now,blank=True)
 
     def __strt__(self):
         return self.email
