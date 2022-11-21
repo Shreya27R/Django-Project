@@ -22,7 +22,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/4.1/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-fwv00aw!c=7a#-+mgdjpw!tp%)@_rc)4_-wo+f#px$qar0n3*^'
+SECRET_KEY = '**************************************'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -101,7 +101,7 @@ WSGI_APPLICATION = 'carzone.wsgi.application'
 #     }
 # }
 
-DATABASES = {'default': dj_database_url.config(default = 'postgres://postgres:test12*12@localhost/carzone_db')}
+DATABASES = {'default': dj_database_url.config(default = 'postgres://postgres:*******@localhost/carzone_db')}
 
 
 # Password validation
@@ -166,7 +166,7 @@ SITE_ID = 1
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_HOST_USER = 'shreyaborker11@gmail.com'
-EMAIL_HOST_PASSWORD = 'mssrajymtakugeli'
+EMAIL_HOST_PASSWORD = '*********'
 EMAIL_USE_TLS = True
 
 
